@@ -14,7 +14,7 @@ Use：<br>
 
 Use:<br>
 ```Java
-<cn.flyrise.android.library.view.svg.SvgView
+<demo.yj.cn.customviewstudio.view.SvgView
         android:background="#fff"
         android:layout_width="400px"
         android:layout_height="200px"
